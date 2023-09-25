@@ -1,0 +1,21 @@
+[ BG ]
+- option		| 421x629, 24bit (253,247,237)
+- game_failed_bg	| 421x629, 24bit (253,247,237)
+
+[ BT ] 
+- lobby_play	| 96x96, 24bit (196,219,74)
+- lobby_option	| 96x96, 24bit (196,219,74)
+- lobby_cancle	| 96x96, 24bit (196,219,74)
+- option_cancle	| 99x106, 24bit (253,247,237)
+- game_option	| 69x71, 24bit (238,235,229)
+- failed_home	| 96,96, 24bit (157,69,70)
+- failed_retry	| 96,96, 24bit (157,69,70)
+- failed_exut	| 96,96, 24bit (157,69,70)
+
+[ TEXT ] 
+- Lobby Sound :	| 280x70, 24bit (155,114,54)
+- Game Sound :	| 280x70, 24bit (155,114,54)
+- Click Sound :	| 280x70, 24bit (155,114,54)
+- Shoot Sound :	| 280x70, 24bit (155,114,54)
+
+- READY... : 	| , 24bit (113,184,56)
